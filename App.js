@@ -6,8 +6,8 @@ import { Signup } from './components/signup';
 const App = () => {
   return(
     <ScrollView>
-      <Signin/>
-      {/* <Signup/> */}
+      {/* <Signin/> */}
+      <Signup/>
     </ScrollView>
   );
 };
